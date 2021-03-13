@@ -1,9 +1,6 @@
 ﻿<Properties StartupConfiguration="{D458CE23-207D-43EF-957F-24EB0AEFE362}|Default">
-  <MonoDevelop.Ide.ItemProperties.Repaso3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Repaso3/Program.cs">
-    <Files>
-      <File FileName="Repaso3/Program.cs" Line="7" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.Repaso3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">

@@ -1,0 +1,6 @@
+/Users/fede/Documents/GitHub/CAI-Repaso-3/Repaso3/Repaso3/bin/Debug/Repaso3.exe
+/Users/fede/Documents/GitHub/CAI-Repaso-3/Repaso3/Repaso3/bin/Debug/Repaso3.pdb
+/Users/fede/Documents/GitHub/CAI-Repaso-3/Repaso3/Repaso3/obj/Debug/Repaso3.csprojAssemblyReference.cache
+/Users/fede/Documents/GitHub/CAI-Repaso-3/Repaso3/Repaso3/obj/Debug/Repaso3.csproj.CoreCompileInputs.cache
+/Users/fede/Documents/GitHub/CAI-Repaso-3/Repaso3/Repaso3/obj/Debug/Repaso3.exe
+/Users/fede/Documents/GitHub/CAI-Repaso-3/Repaso3/Repaso3/obj/Debug/Repaso3.pdb

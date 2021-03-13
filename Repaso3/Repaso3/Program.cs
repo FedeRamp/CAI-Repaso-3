@@ -42,13 +42,6 @@ namespace Repaso3
                 Console.WriteLine(palabraIngresada + "-> no es un palíndromo");
             }
 
-            //test
-            Console.WriteLine(esPalindromo("neuquen"));
-            Console.WriteLine(esPalindromo("chubut"));
-            Console.WriteLine(esPalindromo("salta"));
-            Console.WriteLine(esPalindromo("salas"));
-            Console.WriteLine(esPalindromo("alla"));
-
         }
     }
 }
